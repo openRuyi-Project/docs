@@ -24,7 +24,7 @@ sidebar_position: 1
 
 * [命名规则](/docs/guide/packaging-guidelines/Naming) & [版本号](/docs/guide/packaging-guidelines/Versioning): 确立包名与版本的唯一性。
 
-* [许可证](/docs/guide/packaging-guidelines/Licenses) & [SPDX 许可证表达式](/governance/legal/spdx): 详细介绍许可证机制。
+* [许可证](/docs/guide/packaging-guidelines/Licenses) & [SPDX 许可证表达式](/community/legal/spdx): 详细介绍许可证机制。
 
 * [宏标签](/docs/guide/packaging-guidelines/RPMMacros): 规范 RPM Spec 中的变量定义。
 

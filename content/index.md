@@ -24,7 +24,7 @@ These are the core principles of packaging. All packages should follow the [open
 
 * [Naming Guidelines](/docs/guide/packaging-guidelines/Naming) & [Version Numbers](/docs/guide/packaging-guidelines/Versioning): Establish clear and unique package names and versions.
 
-* [Licenses](/docs/guide/packaging-guidelines/Licenses) & [SPDX License Expressions](/governance/legal/spdx): Review detailed guidance on the licensing mechanism.
+* [Licenses](/docs/guide/packaging-guidelines/Licenses) & [SPDX License Expressions](/community/legal/spdx): Review detailed guidance on the licensing mechanism.
 
 * [Macro Tags](/docs/guide/packaging-guidelines/RPMMacros): Standardize variable definitions in RPM spec files.
 

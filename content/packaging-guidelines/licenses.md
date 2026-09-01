@@ -27,7 +27,7 @@ However, if a subpackage is independent of any base package (that is, it does no
 
 Every spec file must contain a `License` tag, and the packager must make every reasonable effort to ensure that it is accurate.
 
-Packagers must write the `License` tag using the appropriate [SPDX License Expressions](/governance/legal/spdx) or SPDX expression.
+Packagers must write the `License` tag using the appropriate [SPDX License Expressions](/community/legal/spdx) or SPDX expression.
 
 ### Basic Rule
 

@@ -7,9 +7,9 @@ slug: /guide/documentation-contribution-guide
 
 # Documentation Contribution Guide
 
-openRuyi builds its documentation with Docusaurus. The homepage repository stores most of the documentation as Markdown files. The documentation falls into two categories: openRuyi system documentation in the `docs` directory, and openRuyi community documentation in the `governance` directory. Images usually live under `static/img/...`, and Markdown files reference them via `/img/...` paths.
+openRuyi builds its documentation with Docusaurus. The homepage repository stores most of the documentation as Markdown files. The documentation falls into two categories: openRuyi system documentation in the `docs` directory, and openRuyi community documentation in the `community` directory. Images usually live under `static/img/...`, and Markdown files reference them via `/img/...` paths.
 
-In most cases, you can contribute to the openRuyi documentation by adding Markdown files under the `docs` and `governance` directories.
+In most cases, you can contribute to the openRuyi documentation by adding Markdown files under the `docs` and `community` directories.
 
 ## Writing Guide
 
@@ -59,7 +59,7 @@ Specification-style documents should use a more formal tone and clearly indicate
 
 ### Chinese Writing Style
 
-Use Simplified Chinese for Chinese documentation. Keep the overall tone clear, direct, and professional. Tutorial-style documents may use polite wording such as “请”, “您”, and “我们建议”, but should avoid overly casual expressions. Specifications, policies, and governance documents should maintain a formal tone.
+Use Simplified Chinese for Chinese documentation. Keep the overall tone clear, direct, and professional. Tutorial-style documents may use polite wording such as “请”, “您”, and “我们建议”, but should avoid overly casual expressions. Specifications, policies, and community documents should maintain a formal tone.
 
 Keep technical terms in English, especially in the following cases:
 

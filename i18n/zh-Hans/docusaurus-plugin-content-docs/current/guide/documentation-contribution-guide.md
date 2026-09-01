@@ -8,9 +8,9 @@ slug: /guide/documentation-contribution-guide
 
 # 文档贡献指南
 
-openRuyi 的文档基于 Docusaurus 构建。文档的内容以 Markdown 格式文件为主，位于 homepage 主仓库内。文档分为两类: 位于 `docs` 目录下的 openRuyi 系统类文档，以及位于 `governance` 目录下的 openRuyi 社区类文档。图片通常存放在 `static/img/...` 下，并在 Markdown 中通过 `/img/...` 路径引用。
+openRuyi 的文档基于 Docusaurus 构建。文档的内容以 Markdown 格式文件为主，位于 homepage 主仓库内。文档分为两类: 位于 `docs` 目录下的 openRuyi 系统类文档，以及位于 `community` 目录下的 openRuyi 社区类文档。图片通常存放在 `static/img/...` 下，并在 Markdown 中通过 `/img/...` 路径引用。
 
-这意味着在多数情况下，你只需要添加 `docs` 和 `governance` 目录下的 Markdown 格式文件，就可以为 openRuyi 的文档做出贡献。
+这意味着在多数情况下，你只需要添加 `docs` 和 `community` 目录下的 Markdown 格式文件，就可以为 openRuyi 的文档做出贡献。
 
 ## 写作指南
 
